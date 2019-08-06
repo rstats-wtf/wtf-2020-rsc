@@ -3,7 +3,7 @@ What They Forgot to Teach You about R
 
 ### rstudio::conf 2020
 
-by INSTRUCTOR_NAME
+by Kara Woo, Jenny Bryan, and Jim Hester
 
 -----
 
