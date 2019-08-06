@@ -31,7 +31,7 @@ In terms of your R skills, expect to come away with new knowledge of your R inst
 
 ## Learning objectives
 
-LEARNING_OBJECTIVES
+ADD LEARNING OBJECTIVE(S)
 
 ## Is this course for me?
 
