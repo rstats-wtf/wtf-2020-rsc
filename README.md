@@ -35,7 +35,13 @@ ADD LEARNING OBJECTIVE(S)
 
 ## Is this course for me?
 
-THREE_QUESTIONS
+You should take this workshop if:
+
+You've been using R for a while and you feel like writing R code is not what’s holding you back the most.
+You’ve realized that you have more pressing "meta" problems that no one seems to talk about:
+You want to know how to divide your work into projects and scripts, how to expose your work to others, and how to get more connected to the R development scene. 
+
+The tidyverse is not an explicit focus of the course (other than the purrr segment) and you can certainly work through the content without it. But you should expect a great deal of tidyverse exposure.
 
 ## Prework
 
