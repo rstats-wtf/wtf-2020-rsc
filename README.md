@@ -1,4 +1,4 @@
-WORKSHOP_TITLE
+What They Forgot to Teach You about R
 ================
 
 ### rstudio::conf 2020
