@@ -1,6 +1,6 @@
 ## Day 2, Session 1
 
-Who: Jim and Jeroen
+Who: TBD
 
 Agenda
 

@@ -1,6 +1,6 @@
 ## Day 1, Session 2
 
-Who: Jenny
+Who: Kara
 
 Agenda
 

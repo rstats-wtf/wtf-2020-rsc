@@ -1,17 +1,16 @@
 ## Day 2, Session 2
 
-Who: Jim, Jeroen Ooms
+Who: TBD
 
 Agenda
 
-  * R Infrastructure - Jeroen Ooms
+  * R Infrastructure
   * Administering your R installation 2 of 2 - Installing a source package
   
 Slides
 
   * [dev-environment.pdf](materials/dev-environment.pdf)
   * [install-source-package.pdf](materials/install-source-package.pdf)
-  * Jeroen's talk: <https://jeroen.github.io/uros2018/#1>
   
 Activity prompts
 
