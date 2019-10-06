@@ -9,8 +9,8 @@ Agenda
   
 Slides
 
-  * [dev-environment.pdf](dev-environment.pdf)
-  * [install-source-package.pdf](install-source-package.pdf)
+  * [dev-environment.pdf](materials/dev-environment.pdf)
+  * [install-source-package.pdf](materials/install-source-package.pdf)
   * Jeroen's talk: <https://jeroen.github.io/uros2018/#1>
   
 Activity prompts

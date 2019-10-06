@@ -9,7 +9,7 @@ Agenda
   
 Slides
 
-  * [git-and-github-daily-workflows.pdf](git-and-github-daily-workflows.pdf)
+  * [git-and-github-daily-workflows.pdf](materials/git-and-github-daily-workflows.pdf)
   
 Activity prompts
 

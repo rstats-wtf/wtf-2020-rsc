@@ -10,7 +10,7 @@ Agenda
 
 Slides
 
-  * [R-startup](R-startup.pdf)
+  * [R-startup](materials/R-startup.pdf)
 
 Activity prompts
 

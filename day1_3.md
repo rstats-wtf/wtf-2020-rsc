@@ -9,8 +9,8 @@ Agenda
   
 Slides
 
-  * [debugging.pdf](debugging.pdf)
-  * [read-the-source.pdf](read-the-source.pdf)
+  * [debugging.pdf](materials/debugging.pdf)
+  * [read-the-source.pdf](materials/read-the-source.pdf)
   
 Activity prompts
 

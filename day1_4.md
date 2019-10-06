@@ -9,7 +9,7 @@ Agenda
   
 Slides
 
-  * [git-and-github-early-usage.pdf](git-and-github-early-usage.pdf)
+  * [git-and-github-early-usage.pdf](materials/git-and-github-early-usage.pdf)
   
 Activity prompts
 
