@@ -43,25 +43,23 @@ Please do the requested Git/GitHub prep in advance! Go [here](http://happygitwit
 
 ### Monday
 
-08:00 - 09:00 Registration/breakfast  
 09:00 - 10:30 [1_1: Project-oriented workflow 1 of 2](day1_1)  
 10:30 - 11:00 Break  
 11:00 - 12:30 [1_2: Project-oriented workflow 2 of 2](day1_2)    
-12:30 - 14:00 Lunch  
-14:00 - 15:30 [1_3: Debugging](day1_3)   
-15:30 - 16:00 Break  
-16:00 - 17:30 [1_4: Git/GitHub 1](day1_4)  
+12:30 - 13:30 Lunch  
+13:30 - 15:00 [1_3: Debugging](day1_3)   
+15:00 - 15:30 Break  
+15:30 - 17:00 [1_4: Git/GitHub 1](day1_4)  
 
 ### Tuesday
 
-08:00 - 09:00 Registration/breakfast  
 09:00 - 10:30 [2_1: Personal R Administration 1 of 2](day2_1)  
 10:30 - 11:00 Break  
 11:00 - 12:30 [2_2: Personal R Administration 2 of 2](day2_2)  
-12:30 - 14:00 Lunch  
-14:00 - 15:30 [2_3: Git/GitHub 2](day2_3)  
-15:30 - 16:00 Break  
-16:00 - 17:30 [2_4: Iterating well with purrr](day2_4)  
+12:30 - 13:30 Lunch  
+13:30 - 15:00 [2_3: Git/GitHub 2](day2_3)  
+15:00 - 15:30 Break  
+15:30 - 17:00 [2_4: Iterating well with purrr](day2_4)  
 
 ## Instructors
 
