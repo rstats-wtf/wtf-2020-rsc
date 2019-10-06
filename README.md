@@ -5,16 +5,7 @@ What They Forgot to Teach You about R
 
 by Kara Woo, Jenny Bryan, and Jim Hester
 
------
-
-INSTRUCTIONS FOR INSTRUCTORS: Please insert information about your
-workshop below. Then, add workshop content in the materials folder and
-link to each session’s materials from the schedule below. You are
-welcomed to add more rows to the schedule. We just ask that you take
-breaks at the specified times. Once you are done adding information, you
-can remove these instructions from the README.
-
------
+[https://rstudio-conf-2020.github.io/what-they-forgot/](https://rstudio-conf-2020.github.io/what-they-forgot/) <-- The One True URL that links to everything!
 
 :spiral_calendar: January 27 and 28, 2020  
 :alarm_clock:     09:00 - 17:00  
@@ -29,11 +20,12 @@ This is a two-day hands on workshop designed for experienced R and RStudio users
 
 In terms of your R skills, expect to come away with new knowledge of your R installation, how to maintain it, robust strategies for working with the file system, and ways to use the purrr package for repetitive tasks.
 
-## Learning objectives
-
-ADD LEARNING OBJECTIVE(S)
 
 ## Is this course for me?
+
+* Have you been using R for a while and feel there might be better ways to organize your R life, but don't know what they are?
+* Do you want to streamline your workflow for doing analysis and automating repetitive tasks in R?
+* Are you willing to get into the weeds of your R installation, project organization, error messages, and source code?
 
 You should take this workshop if:
 
@@ -43,28 +35,73 @@ You want to know how to divide your work into projects and scripts, how to expos
 
 The tidyverse is not an explicit focus of the course (other than the purrr segment) and you can certainly work through the content without it. But you should expect a great deal of tidyverse exposure.
 
-## Prework
+## Pre-work
 
-\[ADD INFORMATION YOU WANT LEARNERS TO HAVE / STEPS THEY WANT THEM TO
-COMPLETE PRIOR TO THE WORKSHOP. THIS COULD BE A LINK TO A THREAD ON
-RSTUDIO COMMUNITY, PACKAGE INSTALL INSTRUCTIONS, HOW TO GET AN
-RSTUDIO.CLOUD ACCOUNT, ETC.\]
+Please do the requested Git/GitHub prep in advance! Go [here](http://happygitwithr.com/workshops.html#pre-workshop-set-up) for details.
 
 ## Schedule
 
-| Time          | Activity         |
-| :------------ | :--------------- |
-| 09:00 - 10:30 | Session 1        |
-| 10:30 - 11:00 | *Coffee break*   |
-| 11:00 - 12:30 | Session 2        |
-| 12:00 - 13:30 | *Lunch break*    |
-| 13:30 - 15:00 | Session 3        |
-| 15:00 - 15:30 | *Coffee break*   |
-| 15:30 - 17:00 | Session 4        |
+### Monday
 
-## Instructor
+08:00 - 09:00 Registration/breakfast  
+09:00 - 10:30 [1_1: Project-oriented workflow 1 of 2](day1_1)  
+10:30 - 11:00 Break  
+11:00 - 12:30 [1_2: Project-oriented workflow 2 of 2](day1_2)    
+12:30 - 14:00 Lunch  
+14:00 - 15:30 [1_3: Debugging](day1_3)   
+15:30 - 16:00 Break  
+16:00 - 17:30 [1_4: Git/GitHub 1](day1_4)  
 
-\[ADD INSTRUCTOR BIO\]
+### Tuesday
+
+08:00 - 09:00 Registration/breakfast  
+09:00 - 10:30 [2_1: Personal R Administration 1 of 2](day2_1)  
+10:30 - 11:00 Break  
+11:00 - 12:30 [2_2: Personal R Administration 2 of 2](day2_2)  
+12:30 - 14:00 Lunch  
+14:00 - 15:30 [2_3: Git/GitHub 2](day2_3)  
+15:30 - 16:00 Break  
+16:00 - 17:30 [2_4: Iterating well with purrr](day2_4)  
+
+## Instructors
+
+* Kara Woo [karawoo.com](https://karawoo.com) \| Github [karawoo](https://github.com/karawoo) \| Twitter [kara_woo](https://twitter.com/kara_woo)
+* Jenny Bryan [jennybryan.org](https://jennybryan.org) \| Github [jennybc](https://github.com/jennybc) \| Twitter [jennybryan](https://twitter.com/jennybryan)
+* Jim Hester [jimhester.com](https://www.jimhester.com) \| Github [jimhester](https://github.com/jimhester) \| Twitter [jimhester_](https://twitter.com/jimhester_)
+  
+TAs and special guests: 
+
+TBD
+
+## Themes
+
+* Project-oriented mentality, organization, predictability, portability
+* Take control of your R installation: startup, libraries & packages
+* Why and how re: version control, esp. with R and RStudio
+* Strategies for getting unstuck and helping yourself
+* Iterating well, esp. with purrr *game time decision*
+
+## Feedback and communication
+
+[Issues](https://github.com/rstudio-conf-2020/what-they-forgot/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
+
+* Glitches in the instructions or materials that we need to fix, for current workshop or future
+* Missing content that we identify
+* Great questions or sidebar discussions that we should consider formalizing and recording
+* Questions that are too specific or technical to answer in real-time
+
+## Resources
+
+Written versions of content are under open development here:
+
+  * [What They Forgot to Teach You About R](https://whattheyforgot.org) (bookdown site)
+  * [Happy Git and GitHub for the useR](http://happygitwithr.com) (bookdown site)
+  * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/)
+  
+## Links that are handy to us
+
+* GitHub repo: <https://github.com/rstudio-conf-2020/what-they-forgot>
+* GitHub Pages site, served from that repo: <https://rstudio-conf-2020.github.io/what-they-forgot/>
 
 -----
 
