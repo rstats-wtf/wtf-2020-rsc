@@ -19,5 +19,5 @@ Activity prompts
 
 Resources
 
-  * [Setup an R dev environment](https://whattheyforgot.org/setup-an-r-dev-environment.html)
+  * [Setup an R dev environment](https://whattheyforgot.org/set-up-an-r-dev-environment.html)
   * [Install a source package](https://whattheyforgot.org/install-a-source-package.html)
