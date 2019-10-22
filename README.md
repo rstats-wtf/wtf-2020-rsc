@@ -37,9 +37,11 @@ The tidyverse is not an explicit focus of the course (other than the purrr segme
 
 ## Pre-work
 
-Please do the requested Git/GitHub prep in advance! Go [here](http://happygitwithr.com/workshops.html#pre-workshop-set-up) for details.
+Please do the requested Git/GitHub prep in advance! Go [here](https://happygitwithr.com/workshops.html#pre-workshop-set-up) for details.
 
 ## Schedule
+
+*Note: this has been initialized with 2019 content and will be under gradual revision as rstudio::conf 2020 approaches.*
 
 ### Monday
 
@@ -92,8 +94,8 @@ TBD
 
 Written versions of content are under open development here:
 
-  * [What They Forgot to Teach You About R](https://whattheyforgot.org) (bookdown site)
-  * [Happy Git and GitHub for the useR](http://happygitwithr.com) (bookdown site)
+  * [What They Forgot to Teach You About R](https://rstats.wtf) (bookdown site)
+  * [Happy Git and GitHub for the useR](https://happygitwithr.com) (bookdown site)
   * [purrr tutorial](https://jennybc.github.io/purrr-tutorial/)
   
 ## Links that are handy to us
