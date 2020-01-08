@@ -1,6 +1,6 @@
 ## Day 2, Session 1
 
-Who: TBD
+Who: Kara
 
 Agenda
 

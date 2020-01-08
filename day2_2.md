@@ -1,6 +1,6 @@
 ## Day 2, Session 2
 
-Who: TBD
+Who: Jim
 
 Agenda
 
