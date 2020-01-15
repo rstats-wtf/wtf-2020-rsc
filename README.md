@@ -37,7 +37,7 @@ The tidyverse is not an explicit focus of the course (other than the purrr segme
 
 ## Pre-work
 
-Please do the requested Git/GitHub prep in advance! Go [here](https://happygitwithr.com/workshops.html#pre-workshop-set-up) for details.
+Please do the requested Git/GitHub prep in advance! Go [here](https://happygitwithr.com/workshops.html#pre-workshop-set-up) for details. If you have questions, please ask on the [community.rstudio.com thread](https://community.rstudio.com/t/what-they-forgot-to-teach-you-about-r-workshop-rstudio-conf-2020/49106).
 
 ## Schedule
 
