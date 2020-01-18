@@ -5,7 +5,7 @@ What They Forgot to Teach You about R
 
 by Kara Woo, Jenny Bryan, and Jim Hester
 
-[https://rstudio-conf-2020.github.io/what-they-forgot/](https://rstudio-conf-2020.github.io/what-they-forgot/) <-- The One True URL that links to everything!
+[rstd.io/wtf-2020-rsc](https://rstd.io/wtf-2020-rsc) <-- The One True URL that links to everything!
 
 :spiral_calendar: January 27 and 28, 2020  
 :alarm_clock:     09:00 - 17:00  
