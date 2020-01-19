@@ -10,6 +10,7 @@ Agenda
 Slides
 
   * [purrr.pdf](materials/purrr.pdf)
+  * [wtf-closing.pdf](materials/wtf-closing.pdf)
   
 Activity prompts
 
