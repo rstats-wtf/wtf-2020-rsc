@@ -15,9 +15,9 @@ Slides
   
 Activity prompts
 
-  * [What's your OS?](https://github.com/jennybc/wtf-2019-rsc/issues/3)
+  * [What's your OS?](https://github.com/rstudio-conf-2020/what-they-forgot/issues/21)
   * `use_course("rstd.io/wtf-explore-libraries")`
-    - No luck? Get the files in this repo: <https://github.com/jennybc/wtf-explore-libraries>
+    - No luck? Get the files in this repo: <https://github.com/rstats-wtf/wtf-explore-libraries>
 
 Resources
 

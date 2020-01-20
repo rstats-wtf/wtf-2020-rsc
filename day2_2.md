@@ -15,7 +15,7 @@ Slides
 Activity prompts
 
   * `usethis::use_course("rstd.io/wtf-source-package")`
-    - Having trouble? Grab the files in this repo: <https://github.com/jimhester/wtf-source-package>
+    - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-source-package>
 
 Resources
 

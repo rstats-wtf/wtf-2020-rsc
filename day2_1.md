@@ -15,7 +15,7 @@ Slides
 Activity prompts
 
   * `usethis::use_course("rstd.io/wtf-startup")`
-    - Having trouble? Grab the files in this repo: <https://github.com/jimhester/wtf-startup>
+    - Having trouble? Grab the files in this repo: <https://github.com/rstat-wtf/wtf-startup>
 
 Resources
 

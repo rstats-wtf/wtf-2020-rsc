@@ -15,9 +15,9 @@ Slides
 Activity prompts
 
   * `usethis::use_course("rstd.io/wtf-debugging")`
-    - Having trouble? Grab the files in this repo: <https://github.com/jimhester/wtf-debugging>
+    - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-debugging>
   * `usethis::use_course("rstd.io/wtf-read-source")`
-    - Having trouble? Grab the files in this repo: <https://github.com/jimhester/wtf-read-source>
+    - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-read-source>
 
 Resources
 
