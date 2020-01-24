@@ -87,7 +87,7 @@ TAs and special guests:
 
 ## Feedback and communication
 
-https://gitter.im/what-they-forgot/wtf-2020-rsc is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
+<https://gitter.im/what-they-forgot/wtf-2020-rsc> is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
 
 [Issues](https://github.com/rstudio-conf-2020/what-they-forgot/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
 
