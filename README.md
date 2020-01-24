@@ -1,6 +1,8 @@
 What They Forgot to Teach You about R
 ================
 
+[![Gitter](https://badges.gitter.im/what-they-forgot/wtf-2020-rsc.svg)](https://gitter.im/what-they-forgot/wtf-2020-rsc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ### rstudio::conf 2020
 
 by Kara Woo, Jenny Bryan, and Jim Hester
@@ -81,6 +83,8 @@ TBD
 * Iterating well, esp. with purrr *game time decision*
 
 ## Feedback and communication
+
+https://gitter.im/what-they-forgot/wtf-2020-rsc is our chat room. Good for live chat during the workshop. Feel free to ignore if you are overstimulated already.
 
 [Issues](https://github.com/rstudio-conf-2020/what-they-forgot/issues) <-- all are encouraged to open issues as we go. This is actually tremendously helpful to us! Examples of issue-worthy thoughts:
 
