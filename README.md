@@ -66,13 +66,16 @@ The tidyverse is not an explicit focus of the course (other than the purrr segme
 
 ## Instructors
 
-* Kara Woo [karawoo.com](https://karawoo.com) \| Github [karawoo](https://github.com/karawoo) \| Twitter [kara_woo](https://twitter.com/kara_woo)
-* Jenny Bryan [jennybryan.org](https://jennybryan.org) \| Github [jennybc](https://github.com/jennybc) \| Twitter [jennybryan](https://twitter.com/jennybryan)
-* Jim Hester [jimhester.com](https://www.jimhester.com) \| Github [jimhester](https://github.com/jimhester) \| Twitter [jimhester_](https://twitter.com/jimhester_)
+* Kara Woo [karawoo.com](https://karawoo.com) \| GitHub [karawoo](https://github.com/karawoo) \| Twitter [kara_woo](https://twitter.com/kara_woo)
+* Jenny Bryan [jennybryan.org](https://jennybryan.org) \| GitHub [jennybc](https://github.com/jennybc) \| Twitter [jennybryan](https://twitter.com/jennybryan)
+* Jim Hester [jimhester.com](https://www.jimhester.com) \| GitHub [jimhester](https://github.com/jimhester) \| Twitter [jimhester_](https://twitter.com/jimhester_)
   
 TAs and special guests: 
 
-TBD
+* Hannah Frick (TA coordinator) \| GitHub [hfrick](https://github.com/hfrick) \| Twitter [hfcfrick](https://twitter.com/hfcfrick)
+* Myfanwy Johnston \| GitHub [Myfanwy](https://github.com/Myfanwy) \| Twitter [voovarb](https://twitter.com/voovarb)
+* Sean Kross \| GitHub [seankross](https://github.com/seankross) \| Twitter [seankross](https://twitter.com/seankross)
+* Theo Roe \| GitHub [theoroe3](https://github.com/theoroe3) 
 
 ## Themes
 
