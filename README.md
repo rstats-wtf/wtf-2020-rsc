@@ -22,8 +22,6 @@ Please do the requested Git/GitHub prep in advance! Go [here](https://happygitwi
 
 ## Schedule
 
-*Note: this has been initialized with 2019 content and will be under gradual revision as rstudio::conf 2020 approaches.*
-
 ### Monday
 
 09:00 - 10:30 [1_1: Project-oriented workflow 1 of 2](day1_1)  
