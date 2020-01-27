@@ -12,7 +12,7 @@ by Kara Woo, Jenny Bryan, and Jim Hester
 :spiral_calendar: January 27 and 28, 2020  
 :alarm_clock:     09:00 - 17:00  
 :hotel:           Golden Gate Rooms 4-5 (Lobby Level)  
-:writing_hand:    [rstd.io/conf](http://rstd.io/conf)
+:writing_hand:    [rstd.io/conf](http://rstd.io/conf)  
 :musical_note:    [Spotify playlist](https://open.spotify.com/playlist/0OuvqM69DKFK3QPbHIy2kc?si=xonCaP2RTmeOXO3YW7hxhQ)
 
 -----
