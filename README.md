@@ -13,6 +13,7 @@ by Kara Woo, Jenny Bryan, and Jim Hester
 :alarm_clock:     09:00 - 17:00  
 :hotel:           Golden Gate Rooms 4-5 (Lobby Level)  
 :writing_hand:    [rstd.io/conf](http://rstd.io/conf)
+:musical_note:    [Spotify playlist](https://open.spotify.com/playlist/0OuvqM69DKFK3QPbHIy2kc?si=xonCaP2RTmeOXO3YW7hxhQ)
 
 -----
 
