@@ -11,13 +11,17 @@ Slides
 
   * [dev-environment.pdf](materials/dev-environment.pdf)
   * [install-source-package.pdf](materials/install-source-package.pdf)
+  * [read-the-source.pdf](materials/read-the-source.pdf)
   
 Activity prompts
 
   * `usethis::use_course("rstd.io/wtf-source-package")`
     - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-source-package>
+  * `usethis::use_course("rstd.io/wtf-read-source")`
+    - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-read-source>
 
 Resources
 
   * [Setup an R dev environment](https://whattheyforgot.org/set-up-an-r-dev-environment.html)
   * [Install a source package](https://whattheyforgot.org/install-a-source-package.html)
+  * [Read the Source](https://whattheyforgot.org/read-the-source.html)
