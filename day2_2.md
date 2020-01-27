@@ -12,6 +12,7 @@ Slides
   * [dev-environment.pdf](materials/dev-environment.pdf)
   * [install-source-package.pdf](materials/install-source-package.pdf)
   * [read-the-source.pdf](materials/read-the-source.pdf)
+  * [reproducible-environments.pdf](materials/reproducible-environments.pdf)
   
 Activity prompts
 
@@ -25,3 +26,4 @@ Resources
   * [Setup an R dev environment](https://whattheyforgot.org/set-up-an-r-dev-environment.html)
   * [Install a source package](https://whattheyforgot.org/install-a-source-package.html)
   * [Read the Source](https://whattheyforgot.org/read-the-source.html)
+  * [Reproducible Environments](https://environments.rstudio.com/)
