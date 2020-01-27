@@ -4,12 +4,15 @@ Who: Jenny
 
 Agenda
 
-  * Introduce remotes and branches
-  * Useful Git workflows, esp. time travel
+  * More advanced Git workflows
+  * How to go back in time, in various ways
+  * Commits/SHAs, branches, remotes, checkout, reset, merge (conflict), amend
+  * Repo we will work with:
+    - <https://github.com/rstats-wtf/wtf-ascii-funtimes>
   
 Slides
 
-  * [git-and-github-daily-workflows.pdf](materials/git-and-github-daily-workflows.pdf)
+  * [git-and-github-daily-workflows.pdf](materials/git-and-github-daily-workflows.pdf) *2020 refresh will appear before the session starts*
   
 Activity prompts
 
@@ -23,5 +26,5 @@ All link to Happy Git
   * [Remotes](https://happygitwithr.com/git-remotes.html)
   * [Fork and clone](https://happygitwithr.com/fork-and-clone.html)
   * [Get upstream changes for a fork](https://happygitwithr.com/upstream-changes.html)
-  * The [Daily Workflows](https://happygitwithr.com/workflows-intro.html) part
+  * The whole [Daily Workflows](https://happygitwithr.com/workflows-intro.html) part
   * [Existing project, GitHub last](https://happygitwithr.com/existing-github-last.html)
