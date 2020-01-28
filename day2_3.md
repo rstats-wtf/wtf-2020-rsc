@@ -12,7 +12,7 @@ Agenda
   
 Slides
 
-  * [git-and-github-daily-workflows.pdf](materials/git-and-github-daily-workflows.pdf) *2020 refresh will appear before the session starts*
+  * [git-and-github-daily-workflows.pdf](materials/git-and-github-daily-workflows.pdf)
   
 Activity prompts
 
