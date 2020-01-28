@@ -6,20 +6,20 @@ Agenda
 
   * R Infrastructure
   * Administering your R installation 2 of 2 - Installing a source package
-  
+
 Slides
 
+  * [read-the-source.pdf](materials/read-the-source.pdf)
   * [dev-environment.pdf](materials/dev-environment.pdf)
   * [install-source-package.pdf](materials/install-source-package.pdf)
-  * [read-the-source.pdf](materials/read-the-source.pdf)
   * [reproducible-environments.pdf](materials/reproducible-environments.pdf)
-  
+
 Activity prompts
 
-  * `usethis::use_course("rstd.io/wtf-source-package")`
-    - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-source-package>
   * `usethis::use_course("rstd.io/wtf-read-source")`
     - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-read-source>
+  * `usethis::use_course("rstd.io/wtf-source-package")`
+    - Having trouble? Grab the files in this repo: <https://github.com/rstats-wtf/wtf-source-package>
 
 Resources
 
