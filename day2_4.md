@@ -15,7 +15,7 @@ Slides
 Activity prompts
 
   * *appear in the slides*
-    * [Kara's live code](materials/kara_live_code)
+    * [Kara's live code](materials/kara_live_code) ([source](https://github.com/rstudio-conf-2020/what-they-forgot/blob/master/materials/kara_live_code.R))
     
 Resources
 
