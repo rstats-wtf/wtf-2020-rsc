@@ -15,6 +15,7 @@ Slides
 Activity prompts
 
   * *appear in the slides*
+    * [Kara's live code](materials/kara_live_code)
     
 Resources
 
