@@ -1,6 +1,8 @@
 What They Forgot to Teach You about R
 ================
 
+2022-03-15 note: This repo previously belonged to the GitHub organization <https://github.com/rstudio-conf-2020>, under the name `what-they-forgot`. It was renamed and transferred here, as preparations for rstudio::conf(2022) started. It is useful to us to keep all of our resources within one persistent organization.
+
 [![Gitter](https://badges.gitter.im/what-they-forgot/wtf-2020-rsc.svg)](https://gitter.im/what-they-forgot/wtf-2020-rsc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ### rstudio::conf 2020
